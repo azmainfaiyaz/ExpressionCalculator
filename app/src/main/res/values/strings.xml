@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Expression Calculator</string>
+    <string name="expression">Expression</string>
+    <string name="note">Use space after each token</string>
+    <string name="note2">Ex. ( 12 + 2 ) / 3</string>
+    <string name="calculate_expression">Calculate Expression</string>
+    <string name="result">Result</string>
+</resources>
